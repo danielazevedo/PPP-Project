@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1433173305 source:/home/daniel/Área de Trabalho/projeto/dados.c
+	"auxiliar_projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1433285761 
+
+1433259297 /home/daniel/Área de Trabalho/projeto/auxiliar_projeto.h
+
+1433266454 source:/home/daniel/Área de Trabalho/projeto/ficheiros.c
+	"auxiliar_projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1433269909 source:/home/daniel/Área de Trabalho/projeto/listas.c
+	"auxiliar_projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1433268208 source:/home/daniel/Área de Trabalho/projeto/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auxiliar_projeto.h"
+	<ctype.h>
+
+1433275057 source:/home/daniel/Área de Trabalho/projeto/menu.c
+	"auxiliar_projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1433005780 /home/daniel/Área de Trabalho/projeto/dados.c
+	"auxiliar_projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1433016016 /home/daniel/Área de Trabalho/projeto/listas.c
+	"auxiliar_projeto.h"
+	<stdio.h>
+	<stdlib.h>
+
+1433005782 /home/daniel/Área de Trabalho/projeto/menu.c
+	"auxiliar_projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1433017503 /home/daniel/Área de Trabalho/projeto/ficheiros.c
+	"auxiliar_projeto.h"
+	<stdio.h>
+	<stdlib.h>
+
+1433285772 source:c:\users\daniel\desktop\projeto\projeto\dados.c
+	"auxiliar_projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1433286613 c:\users\daniel\desktop\projeto\projeto\auxiliar_projeto.h
+
+1433286601 source:c:\users\daniel\desktop\projeto\projeto\ficheiros.c
+	"auxiliar_projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1433285768 source:c:\users\daniel\desktop\projeto\projeto\listas.c
+	"auxiliar_projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1433286607 source:c:\users\daniel\desktop\projeto\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auxiliar_projeto.h"
+	<ctype.h>
+
+1433285761 source:c:\users\daniel\desktop\projeto\projeto\menu.c
+	"auxiliar_projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1433282174 source:/home/daniel/Área de Trabalho/projeto_PPP_Daniel_Azevedo_e_Nuno_Santos/dados.c
+	"auxiliar_projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1433347233 /home/daniel/Área de Trabalho/projeto_PPP_Daniel_Azevedo_e_Nuno_Santos/auxiliar_projeto.h
+
+1433283002 source:/home/daniel/Área de Trabalho/projeto_PPP_Daniel_Azevedo_e_Nuno_Santos/ficheiros.c
+	"auxiliar_projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1433282170 source:/home/daniel/Área de Trabalho/projeto_PPP_Daniel_Azevedo_e_Nuno_Santos/listas.c
+	"auxiliar_projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1433283008 source:/home/daniel/Área de Trabalho/projeto_PPP_Daniel_Azevedo_e_Nuno_Santos/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auxiliar_projeto.h"
+	<ctype.h>
+
+1433282162 source:/home/daniel/Área de Trabalho/projeto_PPP_Daniel_Azevedo_e_Nuno_Santos/menu.c
+	"auxiliar_projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1434400423 source:/home/daniel/engenharia informatica/2 Semestre/PPP/projeto/projeto_PPP_Daniel_Azevedo_e_Nuno_Santos/dados.c
+	"auxiliar_projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1434400521 /home/daniel/engenharia informatica/2 Semestre/PPP/projeto/projeto_PPP_Daniel_Azevedo_e_Nuno_Santos/auxiliar_projeto.h
+
+1434400472 source:/home/daniel/engenharia informatica/2 Semestre/PPP/projeto/projeto_PPP_Daniel_Azevedo_e_Nuno_Santos/ficheiros.c
+	"auxiliar_projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1433282170 source:/home/daniel/engenharia informatica/2 Semestre/PPP/projeto/projeto_PPP_Daniel_Azevedo_e_Nuno_Santos/listas.c
+	"auxiliar_projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1433347155 source:/home/daniel/engenharia informatica/2 Semestre/PPP/projeto/projeto_PPP_Daniel_Azevedo_e_Nuno_Santos/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auxiliar_projeto.h"
+	<ctype.h>
+
+1433282162 source:/home/daniel/engenharia informatica/2 Semestre/PPP/projeto/projeto_PPP_Daniel_Azevedo_e_Nuno_Santos/menu.c
+	"auxiliar_projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
